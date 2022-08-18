@@ -3,10 +3,9 @@
 Frontend + hooks built with [RainbowKit](https://rainbowkit.com) + [wagmi](https://wagmi.sh) + [Next.js](https://nextjs.org/)
 
 
+![Demo](/../media/jpg/sphinx_main.jpg?raw=true "Demo")
 
 ![Demo](/../media/jpg/sphinx_riddles.jpg?raw=true "Demo")
-
-![Demo](/../media/jpg/sphinx_main.jpg?raw=true "Demo")
 
 ![Demo](/../media/jpg/sphinx_faq.jpg?raw=true "Demo")
 
