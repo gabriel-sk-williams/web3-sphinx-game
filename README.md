@@ -1,6 +1,8 @@
 ## A Web3 carnival game built in Typescript
 
-Frontend + hooks built with [RainbowKit](https://rainbowkit.com) + [wagmi](https://wagmi.sh) + [Next.js](https://nextjs.org/)
+Frontend: [Next.js](https://nextjs.org/) + [ChakraUI](https://chakra-ui.com/)
+Web3 Hooks: [RainbowKit](https://rainbowkit.com) + [wagmi](https://wagmi.sh)
+[Ethereum (Solidity) Contract](https://github.com/gabriel-sk-williams/solidity-sphinx-contract)
 
 
 ![Demo](/../media/jpg/sphinx_main.jpg?raw=true "Demo")
