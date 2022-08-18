@@ -4,7 +4,7 @@ Frontend: [Next.js](https://nextjs.org/) + [ChakraUI](https://chakra-ui.com/) de
 
 Web3 Hooks: [RainbowKit](https://rainbowkit.com) + [wagmi](https://wagmi.sh)
 
-Game Contract: [Ethereum (Solidity)](https://github.com/gabriel-sk-williams/solidity-sphinx-contract)
+Solidity Contract: [Link to repository](https://github.com/gabriel-sk-williams/solidity-sphinx-contract)
 
 [`sphinxgame.wtf`](https://sphinxgame.wtf/).
 
