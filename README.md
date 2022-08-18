@@ -1,6 +1,6 @@
 ## A Web3 carnival game built in Typescript
 
-Frontend: [Next.js](https://nextjs.org/) + [ChakraUI](https://chakra-ui.com/)
+Frontend: [Next.js](https://nextjs.org/) + [ChakraUI](https://chakra-ui.com/) deployed on [Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme)
 
 Web3 Hooks: [RainbowKit](https://rainbowkit.com) + [wagmi](https://wagmi.sh)
 
