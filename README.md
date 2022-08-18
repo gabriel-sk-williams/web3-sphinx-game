@@ -1,6 +1,6 @@
-## Typescript frontend connecting to Web3 backend
+## A Web3 carnival game built in Typescript
 
-[RainbowKit](https://rainbowkit.com) + [wagmi](https://wagmi.sh) + [Next.js](https://nextjs.org/)
+Frontend + hooks built with [RainbowKit](https://rainbowkit.com) + [wagmi](https://wagmi.sh) + [Next.js](https://nextjs.org/)
 
 
 
