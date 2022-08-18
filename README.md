@@ -8,8 +8,8 @@ Game Contract: [Ethereum (Solidity)](https://github.com/gabriel-sk-williams/soli
 
 [`sphinxgame.wtf`](https://sphinxgame.wtf/).
 
-![Demo](/../media/jpg/sphinx_main.jpg?raw=true "Demo")
+![Main Page](/../media/jpg/sphinx_main.jpg?raw=true "Main Page")
 
-![Demo](/../media/jpg/sphinx_riddles.jpg?raw=true "Demo")
+![Riddles](/../media/jpg/sphinx_riddles.jpg?raw=true "Riddles")
 
-![Demo](/../media/jpg/sphinx_faq.jpg?raw=true "Demo")
+![FAQ](/../media/jpg/sphinx_faq.jpg?raw=true "FAQ")
