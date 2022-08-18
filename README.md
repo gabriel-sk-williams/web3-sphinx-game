@@ -1,3 +1,11 @@
+
+![Demo](/../media/jpg/sphinx_riddles.jpg?raw=true "Demo")
+
+![Demo](/../media/jpg/sphinx_main.jpg?raw=true "Demo")
+
+![Demo](/../media/jpg/sphinx_faq.jpg?raw=true "Demo")
+
+
 This is a [RainbowKit](https://rainbowkit.com) + [wagmi](https://wagmi.sh) + [Next.js](https://nextjs.org/) project bootstrapped with [`create-rainbowkit`](https://github.com/rainbow-me/rainbowkit/tree/main/packages/create-rainbowkit).
 
 ## Getting Started
